@@ -1,0 +1,13 @@
+https://www.mathworks.com/help/matlab/import_export/record-and-play-audio.html
+https://www.mathworks.com/matlabcentral/answers/271705-audio-does-not-play
+https://www.mathworks.com/matlabcentral/answers/106349-audio-signal-sampled-data
+https://www.mathworks.com/help/images/ref/imnoise.html
+https://en.wikipedia.org/wiki/Gaussian_noise
+https://www.youtube.com/watch?v=QfUQMzHfbxs
+https://www.mathworks.com/help/signal/ref/medfilt1.html
+https://en.wikipedia.org/wiki/Passband
+https://en.wikipedia.org/wiki/Stopband
+https://en.wikipedia.org/wiki/Nyquist_frequency
+https://www.mathworks.com/help/signal/ref/cheb2ord.html
+https://www.izotope.com/en/learn/digital-audio-basics-sample-rate-and-bit-depth.html
+https://music.stackexchange.com/questions/24631/what-is-the-difference-between-mono-and-stereo#:~:text=The%20difference%20is%20in%20the,stereo%20uses%20more%20than%20one.&text=It%20can%20be%20reproduced%20through,are%20used%20(typically%20two).
